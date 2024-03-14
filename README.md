@@ -32,8 +32,8 @@
 
 ## Let's Connect
 
-[!(https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/soham-shitole)
-[!(https://img.shields.io/badge/WhatsApp-green?style=flat-square&logo=whatsapp)](https://wa.me/+16073740834)
+<a href=https://www.linkedin.com/in/soham-shitole><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href=https://wa.me/+16073740834><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
 <!--
 **sshitol1/sshitol1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
